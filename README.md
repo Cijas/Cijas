@@ -1,8 +1,5 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=200&section=header&text=Lucas%20Marçal&fontSize=35&fontColor=ffffff)
 
-
-<h1 align="center">Hi, I'm Lucas Marçal 👋</h1>
-
 <p align="center">
 💼 Data Analyst | Data Engineering Enthusiast <br>
 🌍 Brazil | Open to International Opportunities
