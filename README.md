@@ -96,7 +96,7 @@ End-to-end pipeline simulating financial transaction analysis
 ## 📫 Contact
 
 * LinkedIn: https://www.linkedin.com/in/lucas-mmarcal/
-* Email: (add your email)
+* Email: lmarcal789@gmail.com
 
 ---
 
@@ -105,4 +105,4 @@ End-to-end pipeline simulating financial transaction analysis
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Stats](https://github-readme-stats.vercel.app/api?username=Cijas&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cijas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)
