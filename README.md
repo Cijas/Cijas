@@ -99,10 +99,20 @@ End-to-end pipeline simulating financial transaction analysis
 * Email: lmarcal789@gmail.com
 
 ---
-
 <p align="center">
 ⚡ Turning data into decisions ⚡
 </p>
 
+<p align="center">
+  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cijas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&cache_seconds=1800)
+![PySpark](https://img.shields.io/badge/PySpark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</p>
+
+<p align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Cijas&show_icons=true&theme=tokyonight&cache_seconds=1800)
+
+</p>
